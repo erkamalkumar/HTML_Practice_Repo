@@ -1,0 +1,48 @@
+/* Normal Functionalities */
+
+/* h1{
+    color:crimson
+}
+p{
+    color:blue
+}
+button{
+    color:white;
+    background-color:#47479e;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+}
+body{
+    background-color: rgb(227, 233, 176);
+    /* background-color: #ffff00; */
+    
+/* } */
+
+
+/* Universal selector */
+*{
+    color:blue;
+}
+
+/* Element selector */
+h1{
+    color:crimson
+}
+
+/* Id selector */
+#heading-1{
+    color:blue;
+}
+#heading-2{
+    color:rgb(201, 9, 226);
+}
+#heading-3{
+    color:rgb(9, 226, 201);
+}
+
+/* Class selector: used for multiple elements */
+.heading{
+    color:rgb(5, 63, 22);
+}
